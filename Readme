@@ -1,0 +1,5 @@
+Both of the files are drag and drop so you should just put it in resources and then start both of them in the server.cfg like this
+
+
+start df_fix
+start df_revive
